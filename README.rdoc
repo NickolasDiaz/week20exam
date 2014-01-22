@@ -3,3 +3,7 @@ This file/folder of code, tells whoever cares about this specific project. It is
 "All and all it's just a break in the wall" - Clocker
 
 Always remember to CD into your repository before intiating the rails server.
+
+2 most important files:
+Gemfile
+.gitignore (Place any file within the .gitignore so that it may be ignored.)
