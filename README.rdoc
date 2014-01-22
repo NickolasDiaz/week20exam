@@ -1,3 +1,5 @@
 This file/folder of code, tells whoever cares about this specific project. It is a project for the 20 week exam.
 
 "All and all it's just a break in the wall" - Clocker
+
+Always remember to CD into your repository before intiating the rails server.
